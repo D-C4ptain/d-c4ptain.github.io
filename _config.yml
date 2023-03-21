@@ -98,7 +98,7 @@ comments:
   giscus:
     repo: dennismasila/dennismasila.github.io # <gh-username>/<repo>
     repo_id:
-    category:
+    category: comments
     category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
