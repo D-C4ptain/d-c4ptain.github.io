@@ -1,0 +1,13 @@
+# https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_data/authors.yml
+
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+D_captain:
+  name: D_captain
+  twitter: d_captainkenya
+  url: https://www.linkedin.com/in/dennis-masila-a48067160/
+
