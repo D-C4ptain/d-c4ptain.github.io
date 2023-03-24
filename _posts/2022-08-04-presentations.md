@@ -22,7 +22,7 @@ image:
 
 - [x] An introduction to DevSecOps(code security) -  24 Mar
   + [ ] [**event link**](https://gdsc.community.dev/events/details/developer-student-clubs-rongo-university-presents-code-security/)
-  + [ ] [**slides**](/assets/docs/devsecops.pdf)
+  + [ ] [**slides**](/assets/docs/gdscdevsecops.pdf)
 
 ---
 
@@ -32,19 +32,19 @@ image:
 ## GDSC Rongo University
 - [x] Cybersecurity Awareness Month -  14 Oct 2022
   + [ ] [**event link**](https://gdsc.community.dev/events/details/developer-student-clubs-rongo-university-presents-cyber-security-awareness/)
-  + [ ] [**slides**](/assets/docs/octawareness.pdf)
+  + [ ] [**slides**](/assets/docs/gdscoctawareness.pdf)
 
 ---
 ## GDSC Rongo University
 - [x] Web application security 2 -  08 April 2022
   + [ ] [**event link**](https://gdsc.community.dev/events/details/developer-student-clubs-rongo-university-presents-cyber-security/)
-  + [ ] [**slides**](/assets/docs/webappsec2.pdf)
+  + [ ] [**slides**](/assets/docs/gdscwebappsec2.pdf)
 
 ---
 ## GDSC Rongo University
 - [x] Web application security 1 -  05 Apr 2022
   + [ ] [**event link**](https://gdsc.community.dev/events/details/developer-student-clubs-rongo-university-presents-cyber-security/)
-  + [ ] [**slides**](/assets/docs/webappsec1.pdf)
+  + [ ] [**slides**](/assets/docs/gdscwebappsec1.pdf)
 
 ---
 
