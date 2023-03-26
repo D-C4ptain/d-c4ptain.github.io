@@ -1,0 +1,11 @@
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/revil-corp-tryhackme-writeup-1d045060f85a > revil.md
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/rootme-tryhackme-df5dad43160d > rootme.md
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/shehackske-kca-intervarsity-ctf-2022-write-up-742226eb18f3 > shehacks.md
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/2022-cybertalents-bootcamp-challenge-542826c619a2 > cybertalents.md
+
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/year-of-the-rabbit-tryhackme-writeup-87bd1a63bb49 > rabbit.md
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/end-of-the-year-udom-ctf-2022-39960d6b436c > udom.md
+mediumexporter https://medium.com/@d-captain/agent-t-tryhackme-writeup-cdfd779ba71f > agent.md
+morvin@Lunar:~/captain$ ls
+agent.md  medium
+morvin@Lunar:~/captain$ mediumexporter https://medium.com/@d-captain/h4cked-tryhackme-detailed-writeup-ea50193a6ba6
