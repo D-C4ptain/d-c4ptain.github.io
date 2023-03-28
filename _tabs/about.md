@@ -15,39 +15,6 @@ My aim is to deliver high-quality security assessments that help clients improve
 I am dedicated to providing the highest level of security assurance.
 
 
-<h2 data-toc-skip>Technical stack</h2>
-- [x] Network Security.
-- [x] Digital Forensics.
-- [x] Steganography
-- [x] Linux and Windows.
-- [x] Web Application Security.
-- [x] Web Development
-
-## Some of my certifications
-
-* PEH - TCM Sec
-* Network Security - Cisco
-* CyberOPs Associate - Cisco
-* Mitre Att&ck Fundamentals - Cyber Ranges
-
-
-## Experience
-
-* CTF Player - [**@Fr334aks-mini**](https://twitter.com/fr334aksmini)
-* IT Support - Kenya Power
-
-
-## Education
-
-* Bsc Computer Science - [**Rongo University**](https://www.rongovarsity.ac.ke/)
-
-
-## Languages
-
-* Python
-* C++
-
-
 Why did the penetration tester refuse to go to the beach? Because he heard there was too much phishing going on!
 
 There are many ways of killing a rat!
