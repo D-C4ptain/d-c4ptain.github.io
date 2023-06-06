@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   Blog site for D_C4ptain
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://dennismasila.github.io"
+url: "https://d-c4ptain.github.io"
 
 github:
-  username: dennismasila # change to your github username
+  username: d-c4ptain # change to your github username
 
 twitter:
   username: D_C4ptain # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dennis Masila
+  name: D_C4ptain
   email: dcaptainkenya@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/D_C4ptain # change to your twitter homepage
-    - https://github.com/dennismasila # change to your github homepage
+    - https://github.com/d-c4ptain # change to your github homepage
     - https://www.linkedin.com/in/dennis-masila-a48067160
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: dennismasila/dennismasila.github.io # <gh-username>/<repo>
+    repo: d-c4ptain/d-c4ptain.github.io # <gh-username>/<repo>
     repo_id:
     category: comments
     category_id:
