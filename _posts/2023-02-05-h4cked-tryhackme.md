@@ -1,9 +1,9 @@
 ---
 title: H4cked - Tryhackme Writeup
-author: D_captain
+author: D_C4ptain
 date: 2023-02-05 14:33:00 +0300
 categories: [tryhackme, write up]
-tags: [tryhackme, write up, walkthrough, ctf, thm, nmap, hacked, h4cked, wireshark, hydra, ftp, netcat, shell, tryhackme walkthrough, tryhackme writeup, d_captain]
+tags: [tryhackme, write up, walkthrough, ctf, thm, nmap, hacked, h4cked, wireshark, hydra, ftp, netcat, shell, tryhackme walkthrough, tryhackme writeup, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

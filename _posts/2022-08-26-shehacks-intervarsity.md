@@ -1,9 +1,9 @@
 ---
 title: SheHacksKE KCA Intervarsity CTF — 2022 Write up
-author: D_captain
+author: D_C4ptain
 date: 2022-08-26 07:00:00 +0300
 categories: [shehackske, write up]
-tags: [shehackske, write up, walkthrough, ctf, osint, forensics, fr334aks, safaricom, africahackon, ekraal, trendmicro,microsoft, ransomware, gandcrab, base64, cyberchef, d_captain]
+tags: [shehackske, write up, walkthrough, ctf, osint, forensics, fr334aks, safaricom, africahackon, ekraal, trendmicro,microsoft, ransomware, gandcrab, base64, cyberchef, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

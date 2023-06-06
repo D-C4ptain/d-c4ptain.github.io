@@ -1,9 +1,9 @@
 ---
 title: End Of The Year UDOM CTF 2022
-author: D_captain
+author: D_C4ptain
 date: 2023-01-01 22:00:00 +0300
 categories: [ctf, write up]
-tags: [udom, write up, walkthrough, ctf, web, osint, cyberchef, forensics, cryptography, steganography, d_captain]
+tags: [udom, write up, walkthrough, ctf, web, osint, cyberchef, forensics, cryptography, steganography, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

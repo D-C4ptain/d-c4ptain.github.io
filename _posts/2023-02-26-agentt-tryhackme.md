@@ -1,9 +1,9 @@
 ---
 title: Agent T - Tryhackme Writeup
-author: D_captain
+author: D_C4ptain
 date: 2023-02-26 10:33:00 +0300
 categories: [tryhackme, write up]
-tags: [tryhackme, write up, walkthrough, ctf, nmap, thm, whatweb, php, useragent, rce, python, enumeration, tryhackme walkthrough, tryhackme writeup, d_captain]
+tags: [tryhackme, write up, walkthrough, ctf, nmap, thm, whatweb, php, useragent, rce, python, enumeration, tryhackme walkthrough, tryhackme writeup, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

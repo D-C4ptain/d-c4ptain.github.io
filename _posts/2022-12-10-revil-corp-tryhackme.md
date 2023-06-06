@@ -1,9 +1,9 @@
 ---
 title: REvil Corp  -  TryHackMe Writeup
-author: D_captain
+author: D_C4ptain
 date: 2022-12-10 13:33:00 +0300
 categories: [tryhackme, write up]
-tags: [tryhackme, write up, walkthrough, ctf, thm, revil corp, revil, redline, windows, sodinokibi, sodin, malware, ransomware, virustotal, mitre, soc, blueteam, forensics, dfir, tryhackme walkthrough, tryhackme writeup, d_captain]
+tags: [tryhackme, write up, walkthrough, ctf, thm, revil corp, revil, redline, windows, sodinokibi, sodin, malware, ransomware, virustotal, mitre, soc, blueteam, forensics, dfir, tryhackme walkthrough, tryhackme writeup, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

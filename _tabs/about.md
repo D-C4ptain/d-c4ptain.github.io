@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Hello, Good to see you here, My name is `Dennis Masila - D_captain`.
+> Hello, Good to see you here, My name is `Dennis Masila - D_C4ptain`.
 {: .prompt-tip }
 
 I am a cyber security enthusiast. I love fixing things, probably after breaking them.  

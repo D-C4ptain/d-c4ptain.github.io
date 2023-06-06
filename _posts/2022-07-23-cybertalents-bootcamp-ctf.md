@@ -1,9 +1,9 @@
 ---
 title: 2022 CyberTalents Bootcamp CTF Writeup
-author: D_captain
+author: D_C4ptain
 date: 2022-07-23 08:30:00 +0300
 categories: [cybertalents, write up]
-tags: [cybertalents, bootcamp, write up, walkthrough, ctf, nmap, wireshark, network, cyberchef, encryption, encoding, javascript, cookies, osi, steganography, php, web, cve, nmap, wifi, wpa, d_captain]
+tags: [cybertalents, bootcamp, write up, walkthrough, ctf, nmap, wireshark, network, cyberchef, encryption, encoding, javascript, cookies, osi, steganography, php, web, cve, nmap, wifi, wpa, d_captain, D_C4ptain]
 math: true
 mermaid: true
 ---

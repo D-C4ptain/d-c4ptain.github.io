@@ -18,12 +18,12 @@ timezone: Africa/Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: D_captain # the main title
+title: D_C4ptain # the main title
 
-tagline: Cyber security | Penetration testing | CTF Player # it will display as the sub-title
+tagline: Cyber security | CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog site for D_captain
+  Blog site for D_C4ptain
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dennismasila.github.io"
@@ -32,7 +32,7 @@ github:
   username: dennismasila # change to your github username
 
 twitter:
-  username: d_captainkenya # change to your twitter username
+  username: D_C4ptain # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
   email: dcaptainkenya@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/d_captainkenya # change to your twitter homepage
+    - https://twitter.com/D_C4ptain # change to your twitter homepage
     - https://github.com/dennismasila # change to your github homepage
     - https://www.linkedin.com/in/dennis-masila-a48067160
     # Uncomment below to add more social links

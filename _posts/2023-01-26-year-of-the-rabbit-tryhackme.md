@@ -1,6 +1,6 @@
 ---
 title: Year Of The Rabbit - Tryhackme Writeup
-author: D_captain
+author: D_C4ptain
 date: 2023-01-26 16:33:00 +0300
 categories: [tryhackme, write up]
 tags: [tryhackme, write up, walkthrough, ctf, thm, nmap, gobuster, burpsuite, hydra, ftp, cryptography, brute force, sudo, privilege escalation, shell, tryhackme walkthrough, tryhackme writeup, d_captain]

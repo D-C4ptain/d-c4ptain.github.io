@@ -1,9 +1,9 @@
 ---
 title: My presentations
-author: D_captain
+author: D_C4ptain
 date: 2022-04-08 11:33:00 +0300
 categories: [presentations]
-tags: [lfi, rfi, shell, idor, rce, csrf, xss, sqli, brute force, web, poc, devops, devsecops, cybersecurity, cyber security, information security, presentations, slides, d_captain]
+tags: [lfi, rfi, shell, idor, rce, csrf, xss, sqli, brute force, web, poc, devops, devsecops, cybersecurity, cyber security, information security, presentations, slides, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:

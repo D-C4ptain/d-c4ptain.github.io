@@ -1,9 +1,9 @@
 ---
 title: Rootme  -  TryHackMe Writeup
-author: D_captain
+author: D_C4ptain
 date: 2022-10-23 00:00:00 +0300
 categories: [tryhackme, write up]
-tags: [tryhackme, write up, walkthrough, ctf, thm, rootme, php, bypass, upload, privilege escalation, netcat, apache, nmap, gobuster, file upload, shell, suid, tryhackme walkthrough, tryhackme writeup, d_captain]
+tags: [tryhackme, write up, walkthrough, ctf, thm, rootme, php, bypass, upload, privilege escalation, netcat, apache, nmap, gobuster, file upload, shell, suid, tryhackme walkthrough, tryhackme writeup, d_captain, D_C4ptain]
 math: true
 mermaid: true
 image:
