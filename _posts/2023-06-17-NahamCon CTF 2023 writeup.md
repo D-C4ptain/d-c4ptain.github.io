@@ -10,7 +10,7 @@ mermaid: true
 
 ![](/assets/img/posts/ctf/nahamcon23/nahamcon23.png)
 
-My [team](http://www.twitter.com/fr33aksmini) and I participated in NahamCon CTF 2023 organized by [John Hammond](https://twitter.com/_johnhammond/). This is a write up of two of the challenges I solved.
+My [team](https://twitter.com/fr334aksmini) and I participated in NahamCon CTF 2023 organized by [John Hammond](https://twitter.com/_johnhammond/). This is a write up of two of the challenges I solved.
 
 
 ## 1. Forensics
