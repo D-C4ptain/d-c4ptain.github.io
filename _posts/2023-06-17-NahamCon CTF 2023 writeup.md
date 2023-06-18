@@ -6,9 +6,11 @@ categories: [CTF, write up]
 tags: [NahamCon, write up, walkthrough, ctf, ghidra, forensics, pdf, pdf-parser, pwn, binary exploitation, d_captain, John Hammond, D_C4ptain, python]
 math: true
 mermaid: true
+image:
+  path: /assets/img/posts/ctf/nahamcon23/nahamcon23.png
 ---
 
-![](/assets/img/posts/ctf/nahamcon23/nahamcon23.png)
+![](/assets/img/posts/ctf/nahamcon23/teamcertificate.png)
 
 My [team](https://twitter.com/fr334aksmini) and I participated in NahamCon CTF 2023 organized by [John Hammond](https://twitter.com/_johnhammond/). This is a write up of two of the challenges I solved.
 
