@@ -101,7 +101,7 @@ I tried accessing it out but turned to be a `404`
 
 ![](/assets/img/posts/ctf/africabattle23/wcinjection4.png)
 
-I striped the 'IP' string and the "Benin" string was actually reflected on the page. That is now interesting.
+I striped the 'IP' string and the "Benin" string was actually reflected on the page! That is now interesting.
 
 ![](/assets/img/posts/ctf/africabattle23/wcinjection5.png)
 
@@ -117,7 +117,7 @@ I went for `XSS` tried a few things here and there but got nothing I decided to 
 Later on after the ctf was over, a [friend](https://twitter.com/byronchris25) approached it with `server side template injection` techniques.  
 [Server Side Template Injection(SSTI)](https://portswigger.net/web-security/server-side-template-injection) - Allows an attacker to include template code into an existing (or not) template. A template engine makes designing HTML pages easier by using static template files which at runtime replaces variables/placeholders with actual values in the HTML pages.
 
-I learned that the app was built on [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) - a templating engine for python web apps.
+I learned that the app was built on [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) - a templating engine for python web apps: django and flask.
 
 I had to come back and finish what I started!  
 I checked on [`PayloadsAllTheThings`](https://github.com/D-C4ptain/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2---basic-injection) and tried a basic Jinja payload.
