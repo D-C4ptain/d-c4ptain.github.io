@@ -10,7 +10,7 @@ image:
   path: /assets/img/posts/ctf/nahamcon23/nahamcon23.png
 ---
 
-![](/assets/img/posts/ctf/nahamcon23/teamcertificate.png)
+![](/assets/img/posts/ctf/nahamcon23/teamcert.png)
 
 My [team](https://twitter.com/fr334aksmini) and I participated in NahamCon CTF 2023 organized by [John Hammond](https://twitter.com/_johnhammond/). This is a write up of two of the challenges I solved.
 
