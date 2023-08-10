@@ -6,7 +6,9 @@ categories: [CTF, write up]
 tags: [Africa, Africa battle, write up, walkthrough, ctf, web, forensics, d_captain, d_c4ptain, python, server side template injection, ssti, whatweb, cyberchef, base64, exiftool, wireshark]
 math: true
 mermaid: true
-image: /assets/img/posts/ctf/africabattle23/africabattlectf23.png
+image:
+  path: /assets/img/posts/ctf/africabattle23/africabattlectf23.png
+---
 ---
 
 This weekend I Participated in Africa Battle CTF 2023. It was an awesome learning experience, thanks to the organizers.  
