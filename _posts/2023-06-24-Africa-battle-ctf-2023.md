@@ -9,6 +9,7 @@ mermaid: true
 image:
   path: /assets/img/posts/ctf/africabattle23/africabattlectf23.png
 ---
+---
 
 This weekend I Participated in Africa Battle CTF 2023. It was an awesome learning experience, thanks to the organizers.  
 These are just but a few challenges I made this write up for.
