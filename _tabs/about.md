@@ -26,5 +26,5 @@ Why did the penetration tester refuse to go to the beach? Because he heard there
 
 There are many ways of killing a rat!
 
-> View full profile [here](https://www.linkedin.com/in/dennis-masila-a48067160/).
+> View full profile [here](https://www.linkedin.com/in/dennis-masila).
 {: .prompt-info }
