@@ -6,13 +6,13 @@ categories: [CTF, write up]
 tags: [HuntressCTF, October, Cybersecurity awareness, John hammond, Chris Cochran, fr334aks-mini, fr334aks]
 ---
 
-This October - cybersecurity awareness month I'll be hunting, hacking and winning with team [Fr334aks-Mini](https://twitter.com/fr334aksmini) on [Huntress CTF 2023](https://huntress.ctf.games/)
+This October - cybersecurity awareness month I was hunting, hacking and winning with team [Fr334aks-Mini](https://twitter.com/fr334aksmini) on [Huntress CTF 2023](https://huntress.ctf.games/)
 
 ![](/assets/img/posts/ctf/huntressctf23/huntress.png)
 
-We shall be delving into the intricacies of `Malware Analysis, Digital Forensics and Incident Response(DFIR), Cyber Threat Intelligence(CTI), Threat Hunting and much more` ; all crafted by [Huntress](https://www.huntress.com/) Security Researcher `John Hammond` and Chief Evangelist `Chris Cochran`
+We delved into the intricacies of `Malware Analysis, Digital Forensics and Incident Response(DFIR), Cyber Threat Intelligence(CTI), Threat Hunting and much more` ; all crafted by [Huntress](https://www.huntress.com/) Security Researcher `John Hammond` and Chief Evangelist `Chris Cochran`
 
-I'll be sharing my experience and some of the interesting challenges we tackle.
+Here's one of the interesting challenges we tackle.
 
 
 ## 1. **Malware**
@@ -49,8 +49,6 @@ A mini-shell it was!
 
 
 ---
-
-Hunting, Hacking and Winning on Huntress CTF 2023.
 
 There are many ways of killing a rat!
 
