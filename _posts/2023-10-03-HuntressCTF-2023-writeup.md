@@ -12,7 +12,7 @@ This October - cybersecurity awareness month I was hunting, hacking and winning 
 
 We delved into the intricacies of `Malware Analysis, Digital Forensics and Incident Response(DFIR), Cyber Threat Intelligence(CTI), Threat Hunting and much more` ; all crafted by [Huntress](https://www.huntress.com/) Security Researcher `John Hammond` and Chief Evangelist `Chris Cochran`
 
-Here's one of the interesting challenges we tackle.
+Here's one of the interesting challenges we tackled.
 
 
 ## 1. **Malware**
