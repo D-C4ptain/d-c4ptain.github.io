@@ -16,6 +16,7 @@ end
 #sudo bundle exec jekyll s
 gem 'logger'
 gem 'csv'
+gem 'base64'
 #sudo bundle install
 #sudo bundle update
 
