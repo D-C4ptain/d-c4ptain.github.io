@@ -14,6 +14,10 @@ end
 #sudo bundle install
 #sudo bundle exec jekyll build --incremental --watch
 #sudo bundle exec jekyll s
+gem 'logger'
+gem 'csv'
+#sudo bundle install
+#sudo bundle update
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
