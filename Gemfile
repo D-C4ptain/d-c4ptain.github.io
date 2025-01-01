@@ -8,6 +8,14 @@ group :test do
   gem "html-proofer", "~> 3.18"
 end
 
+#fixes
+#force_ruby_platform: true
+#bundle config set force_ruby_platform true
+#sudo bundle install
+#sudo bundle exec jekyll build --incremental --watch
+#sudo bundle exec jekyll s
+
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
