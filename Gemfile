@@ -8,19 +8,6 @@ group :test do
   gem "html-proofer", "~> 3.18"
 end
 
-#fixes
-#force_ruby_platform: true
-#bundle config set force_ruby_platform true
-#sudo bundle install
-#sudo bundle exec jekyll build --incremental --watch
-#sudo bundle exec jekyll s
-gem 'logger'
-gem 'csv'
-gem 'base64'
-#sudo bundle install
-#sudo bundle update
-
-
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -39,3 +26,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
+
+gem "webrick", "~> 1.9"
